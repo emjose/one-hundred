@@ -3,7 +3,8 @@
 <a href="https://github.com/emjose">![Emmanuel Jose's #100DaysOfCode](Assets/header-title.png)</a>
 
 - In February 2021, I decided to commit to the <a href="https://www.100daysofcode.com/">**#100DaysofCode Challenge**</a> by <a href="https://github.com/kallaway">Alexander Kallaway.</a>
-- Please say Hello! I love to learn and find ways to thread together art, design, programming, and my eclectic interests 😊
+- I love to learn and find ways to thread together art, design, programming, and my eclectic interests. 😊
+- Please say Hello! 👋
 
 #
 
@@ -206,8 +207,6 @@
     <td> <b> <a href="https://github.com/emjose">my READMEs, portfolio, and a passion project!</a> </b> </td>
   </tr>
 </table>
-
-<br>
 
 #
 
