@@ -4,9 +4,11 @@
 
 🔴 &nbsp;Hello! I love to learn and find ways to thread together art, design, programming, and my eclectic interests.
 
-🟡 &nbsp;In February 2021, I began the <a href="https://www.100daysofcode.com/">**#100DaysofCode Challenge**</a> by <a href="https://github.com/kallaway">Alexander Kallaway.</a>
+🟡 &nbsp;In February 2021, I began the <a href="https://www.100daysofcode.com/">**#100DaysofCode Challenge**</a> by <a href="https://github.com/kallaway">Alex Kallaway.</a>
 
 🔵 &nbsp;Check out my journey so far!
+
+<br>
 
 #
 
