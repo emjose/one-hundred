@@ -8,11 +8,7 @@
 
 🔵 &nbsp;Check out my journey so far!
 
-<br>
-
 #
-
-<br>
 
 <p id="table"><p>
 
@@ -208,9 +204,9 @@
     <td> <a href="https://github.com/emjose/mousetrail-wandavision/#header">WandaVision Mouse Trail</a> </td>
   </tr>
   <tr>
-    <td> * <b> Currently </b> </td>
+    <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
-    <td> <b> <a href="https://github.com/emjose">my READMEs, portfolio, and a passion project!</a> </b> </td>
+    <td> <b> <a href="https://github.com/emjose">my READMEs, my portfolio, and a passion project.</a> </b> </td>
   </tr>
 </table>
 
