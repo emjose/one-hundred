@@ -212,8 +212,6 @@
 
 <br>
 
-![Emmanuel Jose's #100DaysOfCode](Assets/Demo-example.gif)
-
 #
 
 <p id="lets-connect"><p>
