@@ -160,7 +160,7 @@
   </tr>
   <tr>
     <td> <b> Day 021 </b> </td>
-    <td> 02/29/21 </td>
+    <td> 03/01/21 </td>
     <td> <a href="https://github.com/emjose/slingshot/#header">Slingshot Game</a> </td>
   </tr>
   <tr>
