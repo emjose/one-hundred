@@ -204,6 +204,11 @@
     <td> <a href="https://github.com/emjose/mousetrail-wandavision/#header">WandaVision Mouse Trail</a> </td>
   </tr>
   <tr>
+    <td> <b> Day 026 </b> </td>
+    <td> 04/05/21 </td>
+    <td> <a href="https://github.com/emjose/model-minority-myth/#header">Model Minority Myth</a> </td>
+  </tr>
+  <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
     <td> <b> <a href="https://github.com/emjose">my READMEs, my portfolio, and a passion project.</a> </b> </td>
