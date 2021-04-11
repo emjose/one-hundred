@@ -209,6 +209,11 @@
     <td> <a href="https://github.com/emjose/model-minority-myth/#header">Model Minority Myth</a> </td>
   </tr>
   <tr>
+    <td> <b> Day 027 </b> </td>
+    <td> 04/12/21 </td>
+    <td> <a href="https://github.com/emjose/news-site/#header">Dog Day News</a> </td>
+  </tr>
+  <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
     <td> <b> <a href="https://github.com/emjose">my READMEs, my portfolio, and a passion project.</a> </b> </td>
