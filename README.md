@@ -214,6 +214,11 @@
     <td> <a href="https://github.com/emjose/news-site/#header">Dog Day News</a> </td>
   </tr>
   <tr>
+    <td> <b> Day 028 </b> </td>
+    <td> 04/20/21 </td>
+    <td> <a href="https://github.com/emjose/crypto-tracker/#header">Crypto Tracker</a> </td>
+  </tr>
+  <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
     <td> <b> <a href="https://github.com/emjose">my READMEs, my portfolio, and a passion project.</a> </b> </td>
