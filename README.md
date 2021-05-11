@@ -221,7 +221,12 @@
   <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
-    <td> <b> <a href="https://github.com/emjose">my READMEs, my portfolio, and a passion project.</a> </b> </td>
+    <td> <b> <a href="https://start-asian-love.vercel.app/">Start Asian Love</a> </b> </td>
+  </tr>
+  <tr>
+    <td> <b> Currently </b> </td>
+    <td> <b> working on </b> </td>
+    <td> <b> <a href="https://github.com/emjose">my READMEs and my portfolio.</a> </b> </td>
   </tr>
 </table>
 
