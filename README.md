@@ -218,11 +218,11 @@
     <td> 04/21/21 </td>
     <td> <a href="https://github.com/emjose/crypto-tracker/#header">Crypto Tracker</a> </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td> <b> Day 029 </b> </td>
     <td> 05/18/21 </td>
     <td> <a href="https://github.com/emjose/global-metrics-app">Global Metrics</a> </td>
-  </tr>
+  </tr> -->
   <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
