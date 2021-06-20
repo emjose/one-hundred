@@ -228,11 +228,11 @@
     <td> <b> working on </b> </td>
     <td> <b> <a href="https://www.startalove.com/">Start Asian Love</a> </b> </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
     <td> <b> <a href="https://www.emmanuel-jose.com/">my READMEs and my portfolio.</a> </b> </td>
-  </tr>
+  </tr> -->
 </table>
 
 <br>
