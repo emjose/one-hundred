@@ -226,7 +226,7 @@
   <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
-    <td> <b> <a href="https://www.startalove.com/">Start Asian Love</a> </b> </td>
+    <td> <b> the job hunt, studies, and projects </b>⚡️</td>
   </tr>
   <!-- <tr>
     <td> <b> Currently </b> </td>
