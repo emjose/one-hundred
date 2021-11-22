@@ -223,6 +223,11 @@
     <td> 05/18/21 </td>
     <td> <a href="https://github.com/emjose/global-metrics-app/#header">Global Metrics</a> </td>
   </tr>
+  <!-- <tr>
+    <td> <b> Day 030 </b> </td>
+    <td> 11/22/21 </td>
+    <td> <a href="https://github.com/emjose/take-a-guess/#header">Take A Guess</a> </td>
+  </tr> -->
   <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
@@ -241,13 +246,13 @@
 
 <p id="resources"><p>
 
-<a href=#resources>![Resources](Assets/inter-resources.png)</a>  
+<a href=#resources>![Resources](Assets/inter-resources.png)</a>
 
-- #### [Awesome Github Profile README Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools)
+-   #### [Awesome Github Profile README Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools)
 
-- #### [100 Days of Code Chart](https://github.com/chandrikadeb7/100DaysOfCode) by [Chandrika Deb](https://github.com/chandrikadeb7)
+-   #### [100 Days of Code Chart](https://github.com/chandrikadeb7/100DaysOfCode) by [Chandrika Deb](https://github.com/chandrikadeb7)
 
-- #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
+-   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
 
 #
 
