@@ -223,11 +223,11 @@
     <td> 05/18/21 </td>
     <td> <a href="https://github.com/emjose/global-metrics-app/#header">Global Metrics</a> </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td> <b> Day 030 </b> </td>
     <td> 11/22/21 </td>
     <td> <a href="https://github.com/emjose/take-a-guess/#header">Take A Guess</a> </td>
-  </tr> -->
+  </tr>
   <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
