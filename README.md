@@ -14,9 +14,9 @@
 
 <table>
   <tr>
-    <td> <a href=#table><img src="Assets/table-day.png" alt="previous" style="width: 200px;"/></a> </td>
-    <td> <a href=#table><img src="Assets/table-date.png" alt="100 days of code" style="width: 200px;"/></a> </td>
-    <td> <a href=#table><img src="Assets/table-project.png" alt="next" style="width: 580px;"/></a> </td>
+    <td> <a href=#table><img src="Assets/table-day.png" alt="previous" style="width: 220px;"/></a> </td>
+    <td> <a href=#table><img src="Assets/table-date.png" alt="100 days of code" style="width: 250px;"/></a> </td>
+    <td> <a href=#table><img src="Assets/table-project.png" alt="next" style="width: 450px;"/></a> </td>
   </tr>
   <tr>
     <td> <b> Day 001 </b> </td>
