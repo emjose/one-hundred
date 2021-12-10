@@ -228,6 +228,16 @@
     <td> 11/22/21 </td>
     <td> <a href="https://github.com/emjose/take-a-guess/#header">Take A Guess</a> </td>
   </tr>
+   <tr>
+    <td> <b> Day 031 </b> </td>
+    <td> 11/29/21 </td>
+    <td> <a href="#header">Project</a> </td>
+  </tr>
+   <tr>
+    <td> <b> Day 032 </b> </td>
+    <td> 12/9/21 </td>
+    <td> <a href="https://github.com/emjose/js-notes-app/#header">JS Notes</a> </td>
+  </tr>
   <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
