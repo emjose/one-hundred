@@ -231,7 +231,7 @@
    <tr>
     <td> <b> Day 031 </b> </td>
     <td> 11/29/21 </td>
-    <td> <a href="#header">Project</a> </td>
+    <td> <a href="https://github.com/emjose/agile-101/#header">Agile 101</a> </td>
   </tr>
    <tr>
     <td> <b> Day 032 </b> </td>
