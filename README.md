@@ -238,6 +238,11 @@
     <td> 12/9/21 </td>
     <td> <a href="https://github.com/emjose/js-notes-app/#header">JS Notes</a> </td>
   </tr>
+  <!-- <tr>
+    <td> <b> Day 033 </b> </td>
+    <td> 2/1/22 </td>
+    <td> <a href="https://github.com/emjose/design-patterns-101/#header">Design Patterns 101</a> </td>
+  </tr> -->
   <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
