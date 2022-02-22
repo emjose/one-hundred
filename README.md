@@ -243,6 +243,11 @@
     <td> 2/1/22 </td>
     <td> <a href="https://github.com/emjose/design-patterns-101/#header">Design Patterns 101</a> </td>
   </tr>
+    <tr>
+    <td> <b> Day 034 </b> </td>
+    <td> 2/13/22 </td>
+    <td> <a href="https://github.com/emjose/wordle-2/#header">Wordle 2</a> </td>
+  </tr>
   <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
