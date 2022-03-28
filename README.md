@@ -295,6 +295,12 @@
     <td> <h2><a href="https://github.com/emjose/wordle-2/#header">Wordle 2</a> </td></h2>
     <td> <a href="https://wordle-2.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1646028697/Github%20Project%20Thumbnails/meta-034-wordle-g_zpbvsh.png" alt="Wordle 2. Click to visit." style="width: 245px;"/></a> </td>
   </tr>
+    <tr>
+    <td> <b> Day 035 </b> </td>
+    <td> 3/12/22 </td>
+    <td> <h2><a href="https://github.com/emjose/inspectext/#header">InspecText</a> </td></h2>
+    <td> <a href="https://inspectext.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1647812181/Github%20Project%20Thumbnails/meta-035-inspectext_rdesk8.png" alt="InspecText. Click to visit." style="width: 245px;"/></a> </td>
+  </tr>
   <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
