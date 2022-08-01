@@ -1,6 +1,6 @@
 <p id="header"><p>
 
-<a href="https://github.com/emjose">![Emmanuel Jose's #100DaysOfCode](Assets/header-title.png)</a>
+<a href="https://github.com/emjose">![Emmanuel Jose's #100DaysOfCode](https://res.cloudinary.com/dn1e07eul/image/upload/v1659329414/Readme%20Headers/header-title_dtiru3.png)</a>
 
 🔴 &nbsp;Hello! I'm Emmanuel, and I'm a software engineer, an artist, and a lifelong learner.
 
@@ -14,10 +14,10 @@
 
 <table>
   <tr>
-    <td> <a href=#header><img src="Assets/chart-01-day.png" alt="previous" style="width: 106px;"/></a> </td>
-    <td> <a href=#header><img src="Assets/chart-02-date.png" alt="100 days of code" style="width: 110px;"/></a> </td>
-    <td> <a href=#header><img src="Assets/chart-03-project.png" alt="next" style="width: 304px;"/></a> </td>
-    <td> <a href=#header><img src="Assets/chart-04-live-site.png" alt="next" style="width: 206px;"/></a> </td>
+    <td> <a href=#header><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1659328527/Readme%20Headers/chart-01-day_flt81p.png" alt="previous" style="width: 106px;"/></a> </td>
+    <td> <a href=#header><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1659328527/Readme%20Headers/chart-02-date_mlgg3l.png" alt="100 days of code" style="width: 110px;"/></a> </td>
+    <td> <a href=#header><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1659328527/Readme%20Headers/chart-03-project_d9nq5o.png" alt="next" style="width: 304px;"/></a> </td>
+    <td> <a href=#header><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1659328527/Readme%20Headers/chart-04-live-site_hs0tom.png" alt="next" style="width: 206px;"/></a> </td>
   </tr>
   <tr>
     <td> <b> Day 001 </b> </td>
@@ -321,7 +321,7 @@
 
 <p id="resources"><p>
 
-<a href=#resources>![Resources](Assets/inter-resources.png)</a>
+<a href=#resources>![Resources](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314247/Readme%20Headers/inter-resources_ncevbw.png)</a>
 
 -   #### [Meta Tags](https://metatags.io/)
 
@@ -337,10 +337,10 @@
 
 <p id="lets-connect"><p>
 
-<a href=#lets-connect>![Let's Connect!](Assets/inter-lets-connect.png)</a>
+<a href=#lets-connect>![Let's Connect!](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314257/Readme%20Headers/inter-lets-connect_bv3kcd.png)</a>
 
 <p><a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=90 alt="Twitter badge"> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=90 alt="Linkedin badge"> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=90 alt="Medium badge"> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=90 alt="Instagram badge"> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=90 alt="Gmail badge"> <a href="https://www.emmanuel-jose.com/"><img src="https://img.shields.io/badge/portfolio-%23FF0000.svg?&style=for-the-badge&logoColor=white" height=30 width=90 alt="Portfolio badge"> <a href="https://github.com/emjose"><img src="https://img.shields.io/badge/github-%23ff8e44.svg?&style=for-the-badge&logo=github&logoColor=white" height=30 width=90 alt="Youtube badge"></p>
 
 #
 
-<a href=#header>![Back to Top](Assets/inter-congrats.png)</a>
+<a href=#header>![Back to Top](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314281/Readme%20Headers/inter-congrats_m4p3ck.png)</a>
