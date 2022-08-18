@@ -307,6 +307,12 @@
     <td> <h2><a href="https://github.com/emjose/keto-food-list/#header">Keto Food List</a> </td></h2>
     <td> <a href="https://keto-food-list.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1649914738/Github%20Project%20Thumbnails/meta-036-keto_l44gf6.png" alt="Keto Food List. Click to visit." style="width: 245px;"/></a> </td>
   </tr>
+    <tr>
+    <td> <b> Day 037 </b> </td>
+    <td> 8/13/22 </td>
+    <td> <h2><a href="https://github.com/emjose/eye-onic-reading/#header">Eye-onic Reading</a> </td></h2>
+    <td> <a href="https://eye-onic-reading.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1660755143/Github%20Project%20Thumbnails/meta-037-eye-onic-dark_jxjln5.png" alt="Eye-onic Reading. Click to visit." style="width: 245px;"/></a> </td>
+  </tr>
   <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
