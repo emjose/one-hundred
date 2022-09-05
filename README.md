@@ -257,7 +257,7 @@
     <td> <b> Day 028 </b> </td>
     <td> 04/21/21 </td>
     <td> <h2><a href="https://github.com/emjose/crypto-tracker/#header">Crypto Tracker</a> </td></h2>
-    <td> <a href="https://crypto-tracker-emjose.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1646028679/Github%20Project%20Thumbnails/meta-028-crypto_mmf0pn.png" alt="Crypto Tracker. Click to visit." style="width: 245px;"/></a> </td>
+    <td> <a href="https://crypto-tracker-zeta.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1646028679/Github%20Project%20Thumbnails/meta-028-crypto_mmf0pn.png" alt="Crypto Tracker. Click to visit." style="width: 245px;"/></a> </td>
   </tr>
   <tr>
     <td> <b> Day 029 </b> </td>
