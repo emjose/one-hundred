@@ -251,7 +251,7 @@
     <td> <b> Day 027 </b> </td>
     <td> 04/12/21 </td>
     <td> <h2><a href="https://github.com/emjose/news-site/#header">Dog Day News</a> </td></h2>
-    <td> <a href="https://news-site-emjose.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1646028676/Github%20Project%20Thumbnails/meta-027-news_au1yip.png" alt="Dog Day News. Click to visit." style="width: 245px;"/></a> </td>
+    <td> <a href="https://news-site-beta.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1646028676/Github%20Project%20Thumbnails/meta-027-news_au1yip.png" alt="Dog Day News. Click to visit." style="width: 245px;"/></a> </td>
   </tr>
   <tr>
     <td> <b> Day 028 </b> </td>
