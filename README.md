@@ -314,6 +314,12 @@
     <td> <a href="https://eye-onic-reading.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1660755143/Github%20Project%20Thumbnails/meta-037-eye-onic-dark_jxjln5.png" alt="Eye-onic Reading. Click to visit." style="width: 245px;"/></a> </td>
   </tr>
   <tr>
+    <td> <b> Day 038 </b> </td>
+    <td> 10/3/22 </td>
+    <td> <h2><a href="https://github.com/emjose/box-of-shadows/#header">The Box of Shadows</a> </td></h2>
+    <td> <a href="https://box-of-shadows.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1665021735/Github%20Project%20Thumbnails/meta-038-box-of-shadows_alxjgq.png" alt="The Box of Shadows. Click to visit." style="width: 245px;"/></a> </td>
+  </tr>
+  <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
     <td> <b> <a href="https://www.emmanuel-jose.com/">the job hunt, studies, and projects</a> </b>⚡️</td>
