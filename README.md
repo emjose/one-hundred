@@ -320,6 +320,12 @@
     <td> <a href="https://box-of-shadows.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1665021735/Github%20Project%20Thumbnails/meta-038-box-of-shadows_alxjgq.png" alt="The Box of Shadows. Click to visit." style="width: 245px;"/></a> </td>
   </tr>
   <tr>
+    <td> <b> Day 039 </b> </td>
+    <td> 12/29/22 </td>
+    <td> <h2><a href="https://github.com/emjose/candy-cocoa/#header">Candy and Cocoa</a> </td></h2>
+    <td> <a href="https://candy-cocoa.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1672180042/Github%20Project%20Thumbnails/meta-039-candy-cocoa_lzkd0x.png" alt="Candy and Cocoa. Click to visit." style="width: 245px;"/></a> </td>
+  </tr>
+  <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
     <td> <b> <a href="https://www.emmanuel-jose.com/">the job hunt, studies, and projects</a> </b>⚡️</td>
@@ -335,15 +341,15 @@
 
 <a href=#resources>![Resources](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314247/Readme%20Headers/inter-resources_ncevbw.png)</a>
 
--   #### [Meta Tags](https://metatags.io/)
+- #### [Meta Tags](https://metatags.io/)
 
--   #### [Adobe Photoshop](https://www.adobe.com/creativecloud/buy/students.html?sdid=1SQHD8RR&mv=search&ef_id=CjwKCAiAgvKQBhBbEiwAaPQw3IPM-UqiDYjxcfm4r9NpBeGoJIU4X0v0bBkhyJIs9QykM89z32EP8RoC3uQQAvD_BwE:G:s&s_kwcid=AL!3085!3!474331984208!e!!g!!adobe%20photoshop%20student)
+- #### [Adobe Photoshop](https://www.adobe.com/creativecloud/buy/students.html?sdid=1SQHD8RR&mv=search&ef_id=CjwKCAiAgvKQBhBbEiwAaPQw3IPM-UqiDYjxcfm4r9NpBeGoJIU4X0v0bBkhyJIs9QykM89z32EP8RoC3uQQAvD_BwE:G:s&s_kwcid=AL!3085!3!474331984208!e!!g!!adobe%20photoshop%20student)
 
--   #### [Awesome Github Profile README Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools)
+- #### [Awesome Github Profile README Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools)
 
--   #### [100 Days of Code Chart](https://github.com/chandrikadeb7/100DaysOfCode) by [Chandrika Deb](https://github.com/chandrikadeb7)
+- #### [100 Days of Code Chart](https://github.com/chandrikadeb7/100DaysOfCode) by [Chandrika Deb](https://github.com/chandrikadeb7)
 
--   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+- #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
 
 #
 
