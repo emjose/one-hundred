@@ -326,6 +326,12 @@
     <td> <a href="https://candy-cocoa.vercel.app/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1672180042/Github%20Project%20Thumbnails/meta-039-candy-cocoa_lzkd0x.png" alt="Candy and Cocoa. Click to visit." style="width: 245px;"/></a> </td>
   </tr>
   <tr>
+    <td> <b> Day 040 </b> </td>
+    <td> 03/01/23 </td>
+    <td> <h2><a href="https://github.com/emjose/power-words/#header">Power Words</a> </td></h2>
+    <td> <a href="https://www.powerwords.work/"><img src="https://res.cloudinary.com/dn1e07eul/image/upload/v1681166138/Github%20Project%20Thumbnails/meta-040-power-words_pdkjft.png" alt="Power Words. Click to visit." style="width: 245px;"/></a> </td>
+  </tr>
+  <tr>
     <td> <b> Currently </b> </td>
     <td> <b> working on </b> </td>
     <td> <b> <a href="https://www.emmanuel-jose.com/">the job hunt, studies, and projects</a> </b>⚡️</td>
